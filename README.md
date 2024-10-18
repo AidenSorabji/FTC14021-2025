@@ -1,8 +1,7 @@
 # srt.14021-2025
 > [!NOTE]  
-> For use and licensing of this code, click [HERE](#Copyright). 
-> 
-> To contact Aiden Sorabji, click [HERE](#contact).
+> - For use and licensing of this code, click [HERE](#Copyright). 
+> - To contact Aiden Sorabji, click [HERE](#contact).
 
 This repository houses the SRT 14021 codebase for our OpModes, including both autonomous and TeleOp programs, specifically designed for the 2024-2025 season (INTO THE DEEP).
 
