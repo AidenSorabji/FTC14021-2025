@@ -1,4 +1,7 @@
 # srt.14021-2025
+<a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/watchers/aidensorabji/srt.14021-2025">
+
 > [!NOTE]  
 > - For use and licensing of this code, click [HERE](#Copyright). 
 > - To contact Aiden Sorabji, click [HERE](#contact).
@@ -44,7 +47,8 @@ nano Autonomous/main-auto.java
 ```
 ```
 nano TeleOp/main-teleop.java
-```
+``` 
+
 ### Visual Studio Code
 Download Visual Studio Code [HERE](https://code.visualstudio.com/Download).
 
