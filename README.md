@@ -9,10 +9,13 @@ This repository houses the SRT 14021 codebase for our OpModes, including both au
 1. [Title](#srt14021-2025)
 2. [Table of Contents](#table-of-contents)
 3. [Contributors](#contributors)
-4. [Notes](#notes) </br>
+4. [Install & Open](#install--open) </br>
+        a.  [Terminal](#terminal) </br> 
+        b.  [Visual Studio Code](#visual-studio-code)
+5. [Notes](#notes) </br>
         a.  [FtcRobotController SDK](#ftcrobotcontroller-sdk) </br> 
         b.  [Maintainers](#maintainers)
-5. [Copyright](#copyright) </br>
+6. [Copyright](#copyright) </br>
         a.  [Contact](#contact) 
 
 <!--- Will add URLs of everyone once they have made a github account -->
@@ -27,6 +30,47 @@ This repository houses the SRT 14021 codebase for our OpModes, including both au
 - Brennan Berry
 - Caden Gates
 - Saahil Kaura
+
+## Install & Open
+There are two ways of installing and opening this repo with a specific branch:
+### Terminal
+1. Clone the repository and the specific branch using the following command (replace {branch} with the name of the appropriate branch):
+```
+git clone -b {branch} https://github.com/AidenSorabji/srt.14021-2025
+```
+2. Open the specific using any IDE of your choice to start editing. Alternatively, you can use the following command to edit within terminal itself:
+```
+nano Autonomous/main-auto.java
+```
+```
+nano TeleOp/main-teleop.java
+```
+### Visual Studio Code
+Download Visual Studio Code [HERE](https://code.visualstudio.com/Download).
+
+1. Open the command palette by pressing the following keybind:
+#### Windows
+```
+CTRL+SHIFT+P
+```
+#### macOS
+```
+COMMAND+SHIFT+P
+```
+2. Paste the following into the input box to start cloning a repo:
+```
+Git: Clone
+```
+3. Paste the URL of this repo into the the input box to clone this specific repo:
+```
+https://github.com/AidenSorabji/srt.14021-2025
+```
+4. Once the repo has been opened, invoke command palette again and paste the following:
+```
+Git: Checkout to…
+```
+5. Select the branch you want to open. You can now start editing any of the files in that specific branch.
+
 
 ## Notes
 ### FtcRobotController SDK
